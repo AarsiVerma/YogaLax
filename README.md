@@ -26,7 +26,7 @@ A responsive multi-page yoga and wellness website developed using HTML5, CSS3, a
 ## Features
 
 - 5 main pages + article detail pages
-- Fully responsive custom CSS layout (no Bootstrap)
+- as a front-end web development project focused on responsive design and user experience
 - Interactive breath-hold timer built with JavaScript
 - Pranayama carousel, blog posts, class schedule
 - Client-side form validation using JavaScript
@@ -55,6 +55,16 @@ Through this project I learned:
 | Contact | `contact.html` |
 | Article | `article.html?post=slug` |
 
+## Screenshots
+
+### Home Page
+![Home](screenshots/home.png)
+
+### Classes Page
+![Classes](screenshots/classes.png)
+
+###Contact Page
+![Contact](screenshots/contact.png)
 
 ## Project structure
 
