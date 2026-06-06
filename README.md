@@ -1,19 +1,49 @@
 # Yogalax — Yoga Website
 
-A responsive multi-page yoga & wellness website built with **HTML5**, **CSS3**, and **JavaScript** for a BCA Web Technologies assignment.
+- Responsive Yoga & Wellness Website
+- Live Demo: https://your-link
+- GitHub Repository: https://github.com/AarsiVerma/YogaLax
 
-**Author:** Aarsi Verma (24030124005)
+A responsive multi-page yoga and wellness website developed using HTML5, CSS3, and JavaScript. The project focuses on modern UI design, responsive layouts, interactive components, and user-friendly navigation.
+
+**Author:** Aarsi Verma 
+
+## Project Information
+
+- Project Type: Front-End Web Development
+- Status: Completed
+- Academic Level: First Year BCA Project
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- jQuery
+- Owl Carousel
+- Animate On Scroll (AOS)
 
 ## Features
 
 - 5 main pages + article detail pages
 - Fully responsive custom CSS layout (no Bootstrap)
-- Breath-hold timer on the home page
+- Interactive breath-hold timer built with JavaScript
 - Pranayama carousel, blog posts, class schedule
-- Contact form with validation (no backend required)
+- Client-side form validation using JavaScript
 - FAQ section, testimonials, back-to-top button
 - SEO meta descriptions and favicon
 
+## Learning Outcomes
+
+Through this project I learned:
+
+- Responsive web design principles
+- Multi-page website architecture
+- DOM manipulation with JavaScript
+- Form validation techniques
+- Third-party library integration
+- Git and GitHub workflow
+  
 ## Pages
 
 | Page | File |
@@ -25,17 +55,10 @@ A responsive multi-page yoga & wellness website built with **HTML5**, **CSS3**, 
 | Contact | `contact.html` |
 | Article | `article.html?post=slug` |
 
-## How to run
 
-1. Open `index.html` in a browser, **or**
-2. Use **Live Server** in VS Code for best results
+## Live Demo
 
-## Deploy on GitHub Pages
-
-1. Create a GitHub repository
-2. Upload all project files
-3. Go to **Settings → Pages →** source: `main` branch, folder `/ (root)`
-4. Your site will be live at `https://yourusername.github.io/repo-name/`
+https://your-link-here
 
 ## Project structure
 
@@ -63,3 +86,15 @@ Submitting the form shows a thank-you message. An optional link opens your email
 
 - jQuery is used for carousel and scroll animations (Owl Carousel, Waypoints)
 - Custom `css/layout.css` replaces Bootstrap grid and components
+
+ ## Future Improvements
+
+- User authentication
+- Online class booking system
+- Backend integration using PHP and MySQL
+- Personalized yoga plans
+- Progress tracking dashboard
+
+## License
+
+- This project is intended for educational and portfolio purposes.
