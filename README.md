@@ -1,7 +1,7 @@
 # Yogalax — Yoga Website
 
 - Responsive Yoga & Wellness Website
-- Live Demo: https://your-link
+- Live Demo: https://aarsiverma.github.io/YogaLax/
 - GitHub Repository: https://github.com/AarsiVerma/YogaLax
 
 A responsive multi-page yoga and wellness website developed using HTML5, CSS3, and JavaScript. The project focuses on modern UI design, responsive layouts, interactive components, and user-friendly navigation.
@@ -55,10 +55,6 @@ Through this project I learned:
 | Contact | `contact.html` |
 | Article | `article.html?post=slug` |
 
-
-## Live Demo
-
-https://your-link-here
 
 ## Project structure
 
