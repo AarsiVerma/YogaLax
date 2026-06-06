@@ -11,8 +11,8 @@ A responsive multi-page yoga and wellness website developed using HTML5, CSS3, a
 ## Project Information
 
 - Project Type: Front-End Web Development
-- Status: Completed
 - Academic Level: First Year BCA Project
+- Status: Completed
 
 ## Technologies Used
 
@@ -23,6 +23,16 @@ A responsive multi-page yoga and wellness website developed using HTML5, CSS3, a
 - Owl Carousel
 - Animate On Scroll (AOS)
 
+## Skills Demonstrated
+
+- Responsive Web Design
+- HTML5 Semantic Markup
+- CSS3 Styling and Animations
+- JavaScript DOM Manipulation
+- Form Validation
+- Bootstrap Framework
+- Git & GitHub Version Control
+  
 ## Features
 
 - 5 main pages + article detail pages
@@ -33,17 +43,6 @@ A responsive multi-page yoga and wellness website developed using HTML5, CSS3, a
 - FAQ section, testimonials, back-to-top button
 - SEO meta descriptions and favicon
 
-## Learning Outcomes
-
-Through this project I learned:
-
-- Responsive web design principles
-- Multi-page website architecture
-- DOM manipulation with JavaScript
-- Form validation techniques
-- Third-party library integration
-- Git and GitHub workflow
-  
 ## Pages
 
 | Page | File |
@@ -58,13 +57,20 @@ Through this project I learned:
 ## Screenshots
 
 ### Home Page
+Landing page with hero section and breathing timer.
 ![Home](screenshots/home.png)
 
 ### Classes Page
+Membership plans and yoga programs.
 ![Classes](screenshots/classes.png)
 
-###Contact Page
+### Contact Page
+Contact form with client-side validation.
 ![Contact](screenshots/contact.png)
+
+## Live Demo
+
+https://aarsiverma.github.io/YogaLax/
 
 ## Project structure
 
@@ -91,7 +97,7 @@ Submitting the form shows a thank-you message. An optional link opens your email
 ## Tech notes
 
 - jQuery is used for carousel and scroll animations (Owl Carousel, Waypoints)
-- Custom `css/layout.css` replaces Bootstrap grid and components
+- Bootstrap is used for responsive layouts and UI components.
 
  ## Future Improvements
 
@@ -99,7 +105,6 @@ Submitting the form shows a thank-you message. An optional link opens your email
 - Online class booking system
 - Backend integration using PHP and MySQL
 - Personalized yoga plans
-- Progress tracking dashboard
 
 ## License
 
